@@ -1,0 +1,50 @@
+<doctype html="">
+<title>Search Results - Flask Music Database</title>
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <ul class="flashes">
+    {% for message in messages %}
+      <li>{{ message }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
+{% from "_formhelpers.html" import render_field %}
+{% if (flag != 0) %}
+	 <form method="post">
+	     	<dl>
+	     		<p style="margin-left:2.5em">{{ form.cancel2(class="btn btn-outline-info") }}  </p>
+	     	</dl>
+{% endif %}
+<p>{% if (mydoc == '') %}
+    {% block content %}
+	    {% for i in results %} 
+	      {% if (i['Keyword']==val) %}
+	     	{{ i }} <br/><br/>
+	      {% else %} 
+	       
+	      {% endif %}
+	    {% endfor %}
+	    {{ error }}
+    {% endblock content %}
+   {% else %}     
+     <form method="post">
+     	<dl>
+     		<p style="margin-left:2.5em">Add Notes : {{ form.addnote }}  {{ form.submit2(class="btn btn-outline-info") }}  {{ form.cancel(class="btn btn-outline-info")  }}  </p>
+     	</dl>
+    	<p style="margin-left:2.5em">  Retrieve Note : {{ form.retnote }}   {{ form.ret(class="btn btn-outline-info") }}   <br/></p>
+     </form>
+     {% if flag==0 %}
+		     <div>Author : {{ (mydoc[0]['Author']) }} </div>
+		  
+			 </p>
+		     <p>Title : <br/>
+		     {% for result in mydoc %} 
+			   {{ result['Title'] }} <br/>
+		     {% endfor %}
+		     </p>
+	 {% else %}
+	   Something
+     {% endif %}
+   {% endif %}
+</doctype>

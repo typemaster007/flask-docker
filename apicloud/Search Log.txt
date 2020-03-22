@@ -1,0 +1,210 @@
+Keyword : Charles Dickens
+Time : 2020-03-18 20:38:28.678640
+Frequency count : 8
+Keyword : Charles Dickens
+Time : 2020-03-18 20:38:28.678640
+Frequency count : 9
+Keyword : Charles Dickens
+Time : 2020-03-18 20:38:28.678640
+Frequency count : 10
+Keyword : Charles
+Time : 2020-03-18 20:41:57.879247
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 20:41:57.879247
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 20:41:57.879247
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-18 20:41:57.879247
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-18 20:41:57.879247
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-18 20:41:57.879247
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-18 20:41:57.879247
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-18 20:41:57.879247
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-18 20:41:57.879247
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-18 20:41:57.879247
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-18 20:41:57.879247
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-18 20:45:47.715022
+Frequency count : 1
+Keyword : Charless
+Time : 2020-03-18 20:46:02.100317
+Frequency count : 1
+Keyword : sdasda
+Time : 2020-03-18 20:46:09.782534
+Frequency count : 1
+Keyword : asd
+Time : 2020-03-18 20:46:16.113556
+Frequency count : 1
+Keyword : asd
+Time : 2020-03-18 20:46:18.962465
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 20:47:52.907914
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 20:48:39.337499
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 20:48:39.337499
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 20:48:39.337499
+Frequency count : 1
+Keyword : sadas
+Time : 2020-03-18 20:52:07.176909
+Frequency count : 1
+Keyword : asdasd
+Time : 2020-03-18 20:54:17.095830
+Frequency count : 1
+Keyword : asdas
+Time : 2020-03-18 20:54:19.567719
+Frequency count : 1
+Keyword : asd
+Time : 2020-03-18 20:55:05.553928
+Frequency count : 1
+Keyword : asd
+Time : 2020-03-18 20:55:07.402730
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 20:55:10.060686
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 20:55:10.060686
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 20:55:10.060686
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-18 20:55:10.060686
+Frequency count : 4
+Keyword : Charles
+Time : 2020-03-18 20:55:36.097804
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 3
+Keyword : Barbara
+Time : 2020-03-19 23:16:29.361310
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-19 23:16:33.330367
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-19 23:16:33.330367
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-19 23:16:33.330367
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-19 23:24:01.596004
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-19 23:24:01.596004
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-19 23:24:01.596004
+Frequency count : 3
+Keyword : None
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-22 17:41:15.314962
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-22 17:41:15.314962
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-22 17:41:15.314962
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-22 17:41:15.314962
+Frequency count : 4
+Keyword : Charles
+Time : 2020-03-22 17:41:15.314962
+Frequency count : 5
+Keyword : Charles
+Time : 2020-03-22 17:41:15.314962
+Frequency count : 6
+Keyword : Charles
+Time : 2020-03-22 17:41:15.314962
+Frequency count : 7
+Keyword : Charles
+Time : 2020-03-22 17:41:15.314962
+Frequency count : 8
+Keyword : Charles
+Time : 2020-03-22 18:42:26.764286
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-22 18:42:26.764286
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-22 18:42:26.764286
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-22 18:42:26.764286
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-22 18:42:26.764286
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-22 18:42:26.764286
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-22 18:42:26.764286
+Frequency count : 3
+Keyword : Magnetor
+Time : 2020-03-22 19:21:22.490062
+Frequency count : 1
+Keyword : Charles Dickens 
+Time : 2020-03-22 19:21:32.682259
+Frequency count : 1
+Keyword : Charles Dickens
+Time : 2020-03-22 19:21:38.871398
+Frequency count : 1
+Keyword : Charles Dickens
+Time : 2020-03-22 19:21:38.871398
+Frequency count : 2
+Keyword : Charles Dickens
+Time : 2020-03-22 19:21:38.871398
+Frequency count : 3
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-22 19:46:36.709384
+Frequency count : 1

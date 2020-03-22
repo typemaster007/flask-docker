@@ -1,0 +1,315 @@
+Keyword : None
+Time : None
+Frequency count : 1
+Keyword : None
+Time : None
+Frequency count : 1
+Keyword : None
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 2
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1
+Keyword : Charles2
+Time : None
+Frequency count : 1
+Keyword : Charles
+Time : 2020-03-18 21:02:40.356739
+Frequency count : 1

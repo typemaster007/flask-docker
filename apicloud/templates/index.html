@@ -1,0 +1,23 @@
+<doctype html="">
+    <title> Keynote Database</title>
+<h2 style="margin-left:1.5em">Keynote Database</h2>
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <ul class="flashes">
+    {% for message in messages %}
+      <li>{{ message }}</li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
+{% from "_formhelpers.html" import render_field %}
+<form method="post">
+  <dl>
+    <p style="margin-left:2.5em">Keyword Search:{{ render_field(form.search) }}
+  </p>
+</dl>
+  	<p style="margin-left:2.5em">{{ form.submit1(class="btn btn-outline-info") }}</p>
+</form>
+</doctype>
+
+
